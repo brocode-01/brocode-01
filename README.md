@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brocode-01&label=Profile%20views&color=0e75b6&style=flat" alt="brocode-01" /> </p>
 
-- 💬 Ask me about **JavaScript, HTML, CSS, DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, DATA ANALYSIS, RUBY.**
+- 💬 Ask me about **DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, HTML, CSS, Javascript, DATA ANALYSIS, RUBY.**
 - 💻 I’m actively seeking exciting opportunities!
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brocode-01" alt="TheCodeSmith" /></p>
 
