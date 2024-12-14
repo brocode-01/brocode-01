@@ -7,8 +7,8 @@
 <img src="https://miro.medium.com/v2/resize:fit:996/0*t8LuHwuaiC6dec2J.png">
 </div>
 
-<h1 align="center">Hi 👋, Myself TheCodeSmith 💻 </h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h1 align="center">Hi 👋, I’m TheCodeSmith 💻! </h1>
+<h3 align="center">An enthusiastic programmer from India with a deep passion for coding and technology.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/linear-web-development-illustration_1257-357.jpg?t=st=1734175263~exp=1734178863~hmac=2c39ad8b5afe5ff9649f4fd3b78d695f4d96f7e5c2c9def25db3ffd11e6f7c3e&w=1060">
 
@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brocode-01&label=Profile%20views&color=0e75b6&style=flat" alt="brocode-01" /> </p>
 
 - 💬 Ask me about **JavaScript, HTML, CSS, DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, DATA ANALYSIS, RUBY.**
--  💻 I am open to work.
+- 💻 I’m actively seeking exciting opportunities!
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brocode-01" alt="TheCodeSmith" /></p>
 
 <h3 align="left">Connect with me:</h3>
