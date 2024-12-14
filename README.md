@@ -15,7 +15,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brocode-01&label=Profile%20views&color=0e75b6&style=flat" alt="brocode-01" /> </p>
 
-- 💬 Ask me about **JavaScript, HTML, CSS, DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, DATA ANALYSIS, RUBY**
+- 💬 Ask me about **JavaScript, HTML, CSS, DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, DATA ANALYSIS, RUBY.**
+-  💻 I am open to work.
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brocode-01" alt="TheCodeSmith" /></p>
 
 <h3 align="left">Connect with me:</h3>
