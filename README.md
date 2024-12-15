@@ -7,7 +7,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:996/0*t8LuHwuaiC6dec2J.png">
 </div>
 
-<h1 align="center">Hi 👋, I’m TheCodeSmith 💻! </h1>
+<h1 align="center">Hi 👋, I’m TheCodeSmith 💻!! </h1>
 <h3 align="center">An enthusiastic programmer from India with a deep passion for coding and technology.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/linear-web-development-illustration_1257-357.jpg?t=st=1734175263~exp=1734178863~hmac=2c39ad8b5afe5ff9649f4fd3b78d695f4d96f7e5c2c9def25db3ffd11e6f7c3e&w=1060">
