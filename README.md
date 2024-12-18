@@ -17,7 +17,10 @@
 
 - 💬 Ask me about **DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, HTML, CSS, Javascript, DATA ANALYSIS.**
 - 💻 I’m actively seeking exciting opportunities!
-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brocode-01" alt="TheCodeSmith" /></p>
+- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brocode-01" alt="GitHub Streak Stats" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
