@@ -17,8 +17,8 @@
 
 - 💬 Ask me about **DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, HTML, CSS, Javascript, DATA ANALYSIS.**
 - 💻 I’m actively seeking exciting opportunities!
-- <p align="left">
-  <img src="https://your-vercel-url.vercel.app/?user=brocode-01" alt="GitHub Streak Stats" />
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brocode-01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 
