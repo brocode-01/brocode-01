@@ -18,7 +18,7 @@
 - 💬 Ask me about **DSA, OOPS, DBMS, SQL, COMPUTER NETWORK, C++, HTML, CSS, Javascript, DATA ANALYSIS.**
 - 💻 I’m actively seeking exciting opportunities!
 - <p align="left">
-  <img src="https://img.shields.io/badge/Current_Streak-15_days-brightgreen" alt="GitHub Streak Badge" />
+  <img src="https://img.shields.io/badge/Current_Streak-03_days-brightgreen" alt="GitHub Streak Badge" />
 </p>
 
 
